@@ -70,7 +70,7 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 
 <u>The benefits of</u> streamlining the complicated administration procedure <u>justify the cost.</u>
 
-**key points: **
+**key points:** 
 
 1. The risk to ... of ... cannot possibly justify the benefits/boon 弊大于利
 2. The benefits of ... justify the cost. 利大于弊
@@ -80,7 +80,7 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 
 The bankrupt of ofo **offers a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** **take heed of** where it may stumble</u>. The first and foremost benefit involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves the pattern financially/economically unproved</u>.
 
-**key points: **
+**key points:** 
 
 1. offers a window for sb into 为某人提供了了解...的窗口
 2. as we start to see the way A shows the most promise,  we are expected to take heed of where it may stumble. 看到优点的同时也应该警惕它可能的缺点/劣势。

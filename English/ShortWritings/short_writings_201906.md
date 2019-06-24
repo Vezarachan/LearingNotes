@@ -33,6 +33,7 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 1. \<time/area\> have seen something 某个时间段或者地点见证了某个事件，也就是说某个事件在某个时间段或者地点发生了
 2. amid 在...中，amid可以暗示一种原因，也可以表示事件发生的环境。
 3. one’s evil effects bite or tell 产生不好的影响
+4. tariffs unmeasurable in dollars and cents 无法用钱来衡量的关税
 
 ------
 
@@ -46,4 +47,52 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 4. emerge as - become 逐渐成为的一个过程，相比较于become更具有动态感
 5. giant, titan巨人（替换词）-colossi, goliath
 6. ride-hailing 叫车 （ride-hailing service叫车服务）
+
+---
+
+**At the first glance/sight**, sound mental health is to be reflected in one’s/an individual’s happiness. It means that to be mentally healthy is to be without passive emotions. **Take a closer look, however/though**, desirable mental state **is comprised of** emotions **of all kinds**, which make a person an <u>integrated man</u>.
+
+**key points:**
+
+1. at the fist glance/sight, .... Take a closer look, however/though 乍一看，...，仔细观察一看，...（表象引出实质）
+
+2. be comprised of 由...组成 consists of/be composed of
+
+3. of all kinds 各种各样的 of all sources/of all quarters/of all aspects
+
+4. integrated 形容人的性格、品质完整 integrated man 健全的人
+
+   
+
+---
+
+<u>The risks to</u> natural environment <u>of</u> food delivery bundles discarded <u>cannot possibly justify the benefits</u> of it.
+
+<u>The benefits of</u> streamlining the complicated administration procedure <u>justify the cost.</u>
+
+**key points: **
+
+1. The risk to ... of ... cannot possibly justify the benefits/boon 弊大于利
+2. The benefits of ... justify the cost. 利大于弊
+3. The cost and benefits 利与弊 pros and cons/merits and demerits/upside and downside/pitfalls and promise
+
+---
+
+The bankrupt of ofo **offers a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** **take heed of** where it may stumble</u>. The first and foremost benefit involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves the pattern financially/economically unproved</u>.
+
+**key points: **
+
+1. offers a window for sb into 为某人提供了了解...的窗口
+2. as we start to see the way A shows the most promise,  we are expected to take heed of where it may stumble. 看到优点的同时也应该警惕它可能的缺点/劣势。
+3. be expected to应该 be supposed to
+4. take heed of 警惕
+5. gross/rake in money 赚钱
+6. trajectory/routing data轨迹数据
+7. spring up 大量涌现 sprout up
+8. place/exert an impact on 施加影响
+9. nowhere near 远不及，远没有 far from
+10. translate ... into ... 将...转化为... transform/turn...into...
+11. leave sth/sb adj 使某人/某物...
+
+---
 

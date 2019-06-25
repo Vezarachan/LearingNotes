@@ -97,9 +97,9 @@ The bankrupt of “ofo” **offers a window for us into** the situation of bike 
 
 ---
 
-Original: It is humankind’s long suffering **at the mercy of** flood and drought that makes the idea of forcing water to **do our bidding** so fascinating.
+:star:Original: It is humankind’s long suffering **at the mercy of** flood and drought that makes the idea of forcing water to **do our bidding** so fascinating.
 
-It is the long gender discrimination on women under the dominance of men that makes the aspiration of  achieving gender equality an urgent demand.
+It is the long gender discrimination on women under the dominance of men that makes the aspiration of achieving gender equality an urgent demand.
 
 **key points:**
 

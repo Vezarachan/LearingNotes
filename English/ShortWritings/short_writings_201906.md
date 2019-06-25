@@ -1,4 +1,4 @@
-# Short Writings 2019-06 #
+# Short Writings 2019-06r #
 
 ------
 
@@ -78,14 +78,14 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 
 ---
 
-The bankrupt of ofo **offers a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** **take heed of** where it may stumble</u>. The first and foremost benefit involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves the pattern financially/economically unproved</u>.
+The bankrupt of “ofo” **offers a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves the pattern financially/economically ~~unproved~~ **implausible**</u>.
 
 **key points:** 
 
 1. offers a window for sb into 为某人提供了了解...的窗口
 2. as we start to see the way A shows the most promise,  we are expected to take heed of where it may stumble. 看到优点的同时也应该警惕它可能的缺点/劣势。
 3. be expected to应该 be supposed to
-4. take heed of 警惕
+4. take heed of 警惕 - 应替换成 **caution**
 5. gross/rake in money 赚钱
 6. trajectory/routing data轨迹数据
 7. spring up 大量涌现 sprout up
@@ -93,6 +93,16 @@ The bankrupt of ofo **offers a window for us into** the situation of bike sharin
 9. nowhere near 远不及，远没有 far from
 10. translate ... into ... 将...转化为... transform/turn...into...
 11. leave sth/sb adj 使某人/某物...
+12. implausible 难以置信的，不可能真实的 **OPP:** plausible 貌似可信的
 
 ---
 
+Original: It is humankind’s long suffering **at the mercy of** flood and drought that makes the idea of forcing water to **do our bidding** so fascinating.
+
+It is the long gender discrimination on women under the dominance of men that makes the aspiration of  achieving gender equality an urgent demand.
+
+**key points:**
+
+1. It is ... that ... 强调句形式
+2. make ... adj/n 使得...怎么样
+3. at the mercy of - do one’s bidding 处于...的控制之下

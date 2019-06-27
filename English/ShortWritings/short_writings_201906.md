@@ -1,4 +1,4 @@
-# Short Writings 2019-06r #
+# Short Writings 2019-06 #
 
 ------
 
@@ -78,7 +78,7 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 
 ---
 
-The bankrupt of “ofo” **offers a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves the pattern financially/economically ~~unproved~~ **implausible**</u>.
+The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves/remains the pattern financially/economically ~~unproved~~ **implausible**</u>.
 
 **key points:** 
 
@@ -106,3 +106,21 @@ It is the long gender discrimination on women under the dominance of men that ma
 1. It is ... that ... 强调句形式
 2. make ... adj/n 使得...怎么样
 3. at the mercy of - do one’s bidding 处于...的控制之下
+
+---
+
+:star:In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
+
+For example, far more females in developing areas experienced gender discrimination or sexual crimes than (did) their counterparts in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
+
+**key points:** 
+
+1. counterparts 相似的人或事物
+2. gender discrimination 性别歧视
+3. sexual crime 性犯罪
+4. A breakthrough in ... is demanded. 在...的突破是需要的。
+5. There is (as yet) no sign that ... （至今为止）还未有迹象...
+6. on the horizon 近在咫尺，即将来临
+
+
+

@@ -122,5 +122,21 @@ For example, far more females in developing areas experienced gender discriminat
 5. There is (as yet) no sign that ... （至今为止）还未有迹象...
 6. on the horizon 近在咫尺，即将来临
 
+----
+
+:star:<u>Nowhere do</u> 1980 census statistics dramatize <u>more</u> the American search for spacious living <u>than</u> in the Far West. 
+
+:star:Nowhere does debate rage more fiercely about what this means than in America.
+
+参考：Conducting a scientific, appropriate life is the best symbol of a sound mental state.
+
+对照：Nowhere/Nothing is better symbol of a sound mental state than conducting a scientific, appropriate life.
+
+Nowhere does debate rage more fiercely about what a true gender equality is than in China.
+
+**key points:** 
+
+1. Nowhere ... more ... than .../Nothing is + 比较级 ... than ... 用否定的比较级来表示最高级
+
 
 

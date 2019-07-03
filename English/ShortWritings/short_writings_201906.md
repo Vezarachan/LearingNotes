@@ -113,7 +113,7 @@ It is women’s long suffering of gender discrimination from the dominance of me
 
 :star:In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
 
-For example, far more females in underdeveloped/underprivileged/disadvantaged areas experienced gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
+For example, far more females in underdeveloped/underprivileged/disadvantaged areas have been experiencing gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
 
 **key points:** 
 

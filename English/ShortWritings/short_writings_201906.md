@@ -99,7 +99,9 @@ The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situat
 
 :star:Original: It is humankind’s long suffering **at the mercy of** flood and drought that makes the idea of forcing water to **do our bidding** so fascinating.
 
-It is the long gender discrimination on women under the dominance of men that makes the aspiration of achieving gender equality an urgent demand.
+It is the long suffering of gender discrimination against women from the dominance of men that makes the aspiration of achieving gender equality so urgent.
+
+It is women’s long suffering of gender discrimination from the dominance of men that makes the aspiration of achieving gender equality so urgent.
 
 **key points:**
 
@@ -111,7 +113,7 @@ It is the long gender discrimination on women under the dominance of men that ma
 
 :star:In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
 
-For example, far more females in developing areas experienced gender discrimination or sexual crimes than (did) their counterparts in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
+For example, far more females in underdeveloped/underprivileged/disadvantaged areas experienced gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
 
 **key points:** 
 
@@ -130,7 +132,7 @@ For example, far more females in developing areas experienced gender discriminat
 
 参考：Conducting a scientific, appropriate life is the best symbol of a sound mental state.
 
-对照：Nowhere/Nothing is better symbol of a sound mental state than conducting a scientific, appropriate life.
+对照：Nothing is better than leading a scientific, appropriate life as the symbol of a sound mental state.
 
 Nowhere does debate rage more fiercely about what a true gender equality is than in China.
 

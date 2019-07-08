@@ -10,9 +10,9 @@
 
 仿写：
 
-<u>Some people believe that</u> **exam-oriented education** offers a relatively fair opportunity for those who **struggle to** change their life, <u>leading them to</u> <u>experience/enjoy more promising future</u>. <u>Others say the opposite is true</u>: education of the sort stressing test taking and mechanical learning over creativity and self-expression *owns a great possibility of* **stripping/depriving students of** the ability of thinking different.
+<u>Some people believe that</u> **exam-oriented education** offers a relatively fair opportunity for those who **struggle to** change their life, <u>leading them to</u> <u>experience/enjoy more promising future</u>. <u>Others say the opposite is true</u>: education of the sort stressing test taking and mechanical learning over creativity and self-expression *owns a great possibility of* **stripping/depriving students of** the ability of thinking different/critically.
 
-**There is probably some truth in both arguments**, but there is very likely to be a situation that education, or specifically, exams in decades ahead would yield to/give place to the ones judged by *not only* scores *but also* creative mind **with which an integrated man must equip**.
+**There is probably some truth in both arguments**, but there is very likely to be a situation that current education, or specifically, exams would yield to/give place to the ones judged by *not only* scores *but also* creative mind **with which an integrated man must equip**.
 
 **key points:**
 

@@ -26,7 +26,7 @@ A blockbuster movies(卖座电影) *<u>involves/refers</u> to* three elements/fa
 
 ------
 
-Last several months **have seen** the hardship/hurdle Huawei are confronting **amid** the increasing rivalry between China and America over essential resources involving/referring to microchips and its intellectual properties. So far, **a great deal of** multinational corporations such as ZTE, Qualcomm, have been **under the harmful/undesirable impact** of the so-called trade war in which both the countries/superpowers grew/increased/**upped** the **tariffs unmeasurable in dollars and cents** on **each other/one another**. As a result, <u>a breakthrough in alleviating the tensions of businesses is a foremost/urgent must[urgently demanded],</u> otherwise <u>its **evil effects** would bite/tell deeply.</u>
+Last several months **have seen** the hardship/difficulties Huawei are confronting **amid** the increasing rivalry between China and America over essential resources involving/referring to microchips and its intellectual properties. So far, **a great deal of** multinational corporations such as ZTE, Qualcomm, have been **under the harmful/undesirable impact** of the so-called trade war in which both the countries/superpowers grew/increased/**upped** the **tariffs unmeasurable in dollars and cents** on **each other/one another**. As a result, <u>a breakthrough in alleviating the tensions of businesses is a foremost/urgent must[urgently demanded],</u> otherwise <u>its **evil effects** would bite/tell deeply.</u>
 
 **key points:** 
 
@@ -78,7 +78,7 @@ Last several months **have seen** the hardship/hurdle Huawei are confronting **a
 
 ---
 
-The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not by users **paying for** the utilizations of these bicycles but by companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves/remains the pattern financially/economically ~~unproved~~ **implausible**</u>.
+The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not from users **paying for** the utilizations of these bicycles but from companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves/remains the pattern financially/economically ~~unproved~~ **implausible**</u>.
 
 **key points:** 
 
@@ -99,7 +99,7 @@ The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situat
 
 :star:Original: It is humankind’s long suffering **at the mercy of** flood and drought that makes the idea of forcing water to **do our bidding** so fascinating.
 
-It is the long suffering of gender discrimination against women from the dominance of men that makes the aspiration of achieving gender equality so urgent.
+**It is the long suffering of** gender discrimination against women from the dominance of men **that makes** the aspiration of achieving gender equality so urgent.
 
 It is women’s long suffering of gender discrimination from the dominance of men that makes the aspiration of achieving gender equality so urgent.
 
@@ -113,7 +113,7 @@ It is women’s long suffering of gender discrimination from the dominance of me
 
 :star:In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
 
-For example, far more females in underdeveloped/underprivileged/disadvantaged areas have been experiencing gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon**. 
+For example, far more females in underdeveloped/underprivileged/disadvantaged areas <u>have been experiencing</u>(从以前到现在一直在经受【歧视】) gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon/in sight**. 
 
 **key points:** 
 
@@ -123,6 +123,7 @@ For example, far more females in underdeveloped/underprivileged/disadvantaged ar
 4. A breakthrough in ... is demanded. 在...的突破是需要的。
 5. There is (as yet) no sign that ... （至今为止）还未有迹象...
 6. on the horizon 近在咫尺，即将来临
+7. in sight 在即，在望，看得见
 
 ----
 
@@ -130,15 +131,31 @@ For example, far more females in underdeveloped/underprivileged/disadvantaged ar
 
 :star:Nowhere does debate rage more fiercely about what this means than in America.
 
+:star:**There is no better** symbol of Macau’s cultrual diversity **than** Na Tcha Temple sitting quietly beside a major Christan monument-The Ruins of the Church of St. Paul.
+
+仿写1：
+
 参考：Conducting a scientific, appropriate life is the best symbol of a sound mental state.
 
 对照：Nothing is better than leading a scientific, appropriate life as the symbol of a sound mental state.
 
+仿写2：
+
 Nowhere does debate rage more fiercely about what a true gender equality is than in China.
+
+仿写三：
+
+Version1: There is no better evidence of proving the 5000 years’ history of China than Liangzhu’s primeval ruins.
+
+Version2: There is no better evidence of proving/exemplifying the 5000 plus years’ history of Chinese civilization than Liangzhu’s primeval ruins locating in Hangzhou.
+
+Version3: There is no better evidence of proving/exemplifying the 5000 plus years’ history of **Chinese civilization** than Liangzhu’s primeval ruins **locating in** Hangzhou around which exists a supply of Liangzhu’s counterparts.
 
 **key points:** 
 
 1. Nowhere ... more ... than .../Nothing is + 比较级 ... than ... 用否定的比较级来表示最高级
+2. Chinese civilization: 中华文明
+3. locate in 坐落于
 
 
 

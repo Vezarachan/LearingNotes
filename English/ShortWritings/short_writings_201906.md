@@ -78,7 +78,7 @@ Last several months **have seen** the hardship/difficulties Huawei are confronti
 
 ---
 
-The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not from users **paying for** the utilizations of these bicycles but from companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves/remains the pattern financially/economically ~~unproved~~ **implausible**</u>.
+:six_pointed_star:The bankruptcy of “ofo” **~~offers~~ opens a window for us into** the situation of bike sharing-<u>as we start to see the way this industry shows the most promise, we **are expected to** ~~take heed of~~ **caution** where it may stumble</u>. The first and foremost ~~benefit~~ **merit** involves a special business model, which **grosses money** not from users **paying for** the utilizations of these bicycles but from companies which seek the **trajectory/routing data** collected from users. Another boon is over the convenience **provided for** residents/dwellers/citizens. However, **pitfalls follow the promises**. One drawback **refers to** the bikes **springing up** in cities that have **place a undesirable impact on** **public space**.The greater fear is that current corporations competing in the industry are **nowhere near** <u>translating data gathered into real margins/profits</u>, thus it <u>leaves/remains the pattern financially/economically ~~unproved~~ **implausible**</u>.
 
 **key points:** 
 
@@ -113,7 +113,7 @@ It is women’s long suffering of gender discrimination from the dominance of me
 
 :star:In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
 
-For example, far more females in underdeveloped/underprivileged/disadvantaged areas <u>have been experiencing</u>(从以前到现在一直在经受【歧视】) gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon/in sight**. 
+:six_pointed_star:For example, far more females in underdeveloped/underprivileged/disadvantaged areas <u>have been experiencing</u>(从以前到现在一直在经受【歧视】) gender discrimination or sexual crimes than (did) their **counterparts** in developed regions surveyed. Thus/Hence a breakthrough in safe/secure environment and equal opportunities for women is an urgent demand. However, <u>there is as yet no remarkable sign that</u> the true gender equality is **on the horizon/in sight**. 
 
 **key points:** 
 
@@ -145,11 +145,11 @@ Nowhere does debate rage more fiercely about what a true gender equality is than
 
 仿写三：
 
-Version1: There is no better evidence of proving the 5000 years’ history of China than Liangzhu’s primeval ruins.
+**Version1**: There is no better evidence of proving the 5000 years’ history of China than Liangzhu’s primeval ruins.
 
-Version2: There is no better evidence of proving/exemplifying the 5000 plus years’ history of Chinese civilization than Liangzhu’s primeval ruins locating in Hangzhou.
+**Version2**: There is no better evidence of proving/exemplifying the 5000 plus years’ history of Chinese civilization than Liangzhu’s primeval ruins locating in Hangzhou.
 
-Version3: There is no better evidence of proving/exemplifying the 5000 plus years’ history of **Chinese civilization** than Liangzhu’s primeval ruins **locating in** Hangzhou around which exists a supply of Liangzhu’s counterparts.
+**Version3**: There is no better evidence of proving/exemplifying the 5000 plus years’ history of **Chinese civilization** than Liangzhu’s primeval ruins **locating in** Hangzhou around which exists a supply of Liangzhu’s counterparts.
 
 **key points:** 
 

@@ -40,7 +40,9 @@
 
 People have wonder for a  long time how their personalities and behaviors are formed. It is not easy to explain why one person is intelligent and another is not, or why one is cooperative and another is competitive.
 
-In current society, a large number of individuals have wonders for a long time what **is supposed to/is expected to** be done to alleviate/relieve the situation of increasing/growing **traffic congestion/jam** in metropolitans. It is not easy to **figure out** a radical solution to tackle the problem. Nonetheless, there are several plausible ideas that **have every prospect/a strong possibility**. First comes bike-sharing service that offers a more convenient tools for **short-distance commute**. A second method/solution **refers to** <u>ride-hailing service</u>, with which traffic resource **are allowed to** be utilized fully. Another feasible idea involves “car pool lane” spreading in America for decades, which means that until one car is filled, it is not permitted to ride on the lane.
+仿写：
+
+In current society, a large number of individuals have wonders for a long time what **is supposed to/is expected to** be done to alleviate/relieve the situation of increasing/growing **traffic congestion/jam** in metropolitans. It is not easy to **figure out** a radical solution to tackle the problem. Nonetheless, there are several plausible ideas that **have every prospect/a strong possibility**. First comes bike-sharing service that offers a more convenient tools for **short-distance commute**. A second method/solution **refers to** <u>ride-hailing service</u>, with which traffic resource **are allowed to** be utilized fully/**distributed evenly**. Another feasible idea involves “car pool lane” spreading in America for decades, which means that until one car is filled, it is not permitted to ride on the lane.
 
 **key points:**
 
@@ -53,3 +55,44 @@ In current society, a large number of individuals have wonders for a long time w
 7. refer to 涉及，引用
 8. ride-hailing service 叫车服务
 9. be allowed to 被动的使得
+
+---
+
+:key:Nowadays impolite drivers **constitute the majority of** motorists.
+
+仿写：
+
+Those who have been experiencing gender discrimination or sexual crime **constitute a great proportion of** women in underdeveloped/underprivileged areas.
+
+However, those who <u>are capable to/are able to</u> <u>afford pressure/tension</u> **imposed by** challenges **of all kinds/quarters** in daily life and <u>turn/transform ideal into reality</u> constitute the minority of current college students.
+
+**key points:**
+
+1. ... constitute the majority/minority/a great proportion of ... ...占据了...的大多数/少数/很大一部分
+2. be capable to/be able to 能够
+3. afford pressure/tension 承受压力
+4. of all kinds/quarters 各种各样的
+5. turn/transform ... into ... 将...转化为...
+
+---
+
+:star:However, misplaced politeness can also be dangerous. **Typical examples are** the driver who brakes violently to allow a car to emerge from a side street at some hazard to following traffic, when a few seconds later the road would be clear anyway.
+
+**Version1**: <u>It is remarkable that</u> misplaced or inappropriate methodologies of dealing with the traffic issues mentioned above that **a host of** cities share **are very likely to**/**threaten to** <u>exert an undesirable/evil/harmful influence on</u> <u>both the city itself and its dwellers.</u> Typical example is that the emergence of BRT(Bus Rapid Transit), **in certain degree/to certain extent**, has even <u>made the situation/woe worse</u> in several cities that fail to <u>combine it with</u> other forms of transportation.
+
+**Version2:** It is city managers’ misplaced or inappropriate ideas of how to deal with traffic issues   mentioned above that a host of cities share that make the situation of increasing traffic congestion worse. Typical examples are that the existence of BRT(Bus Rapid Transit), in certain degree/to certain extent, helps little in several cities that fail to combine it with other forms of transportation and that it occupies the traffic resources hitherto inadequate/scarce.
+
+**key points:**
+
+1. it is remarkable that ... 值得注意的是...
+2. a host of 许多
+3. be very likely to 很有可能
+4. threaten to 可能
+5. exert undesirable/evil/harmful influence on 施加不良的影响
+6. both ... and ...
+7. :six_pointed_star: Typical example be that ... 用于举例，非常有用
+8. in certain degree/to certain extent 在一定程度上
+9. make the situation/woe worse 使情况/问题更加严重
+10. combine ... with ... 将...与...结合
+
+---

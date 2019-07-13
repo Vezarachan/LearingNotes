@@ -96,3 +96,25 @@ However, those who <u>are capable to/are able to</u> <u>afford pressure/tension<
 10. combine ... with ... 将...与...结合
 
 ---
+
+On one view of rights, to be sure, it necessarily follows that animals have none.
+
+**fantastic points:**
+
+- it follows that ...  成为结果，结果是
+
+It doesn’t necessarily follow that the tensions between China and America has a possibility to alleviate even if there are a series of political or business talks/negotiations.
+
+
+
+It leads the discussion to extremes at the outset: it invites you to think that animals should be treated either with the consideration humans extend to other humans, or with no consideration at all.
+
+**fantastic points:**
+
+- at the outset 一开始
+- invite somebody to do something 使某人做某事 lead somebody do something
+- It/sth leads the question/discussion/issue to two extremes: one respect ... , another ... 可以用于阐述两方面的观点
+
+The “#Metoo” movement leads the discussion of how to achieve gender equality to extremes: The radical side holds that males and females are expected to shared same rights in every respect. However/Nonetheless/Nevertheless, the reasonable/sensible side think differently: because there does exists difference between men and women, it is completely misplaced to equate gender equality with equal rights. Consequently, to reach gender equity is for one to enjoy its entitlements corresponding to features of its gender.
+
+---

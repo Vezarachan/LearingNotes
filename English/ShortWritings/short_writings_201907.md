@@ -118,3 +118,71 @@ It leads the discussion to extremes at the outset: it invites you to think that 
 The “#Metoo” movement leads the discussion of how to achieve gender equality to extremes: The radical side holds that males and females are expected to shared same rights in every respect. However/Nonetheless/Nevertheless, the reasonable/sensible side think differently: because there does exists difference between men and women, it is completely misplaced to equate gender equality with equal rights. Consequently, to reach gender equity is for one to enjoy its entitlements corresponding to features of its gender.
 
 ---
+
+It takes the most cool-headed and good-tempered of drivers to **resist the temptation to** revenge when subjected to uncivilized behaviors.
+
+Those who are capable/able to ~afford challenges~ **imposed by** competitions **of all kinds/quarters/sources** in life and **resist the temptation to** give up constitute/compose a small proportion/the minority of average college students **on campus**.
+
+Of the many values that hold civilization together-honesty, kindness, and so on-accountability may be the most important of all. 
+
+Of the great deal/host of elements/factors that underlie/compose/constitute an integrated man, sound mental health, the source of good manners, has a great possibility to be/is very likely to be/has every prospect to be the most important of all.
+
+**Key points:**
+
+1. resist the temptation to do sth 很难不去做某事
+2. afford challenge to do sth 能承受挑战去做某事
+3. impose sth on sb/sth 施加...于...
+4. of all kinds/quarters/sources 各种各样的
+5. average college students 普通大学生 average 普通的
+6. on campus 在校的
+7. Of the many/a great deal of/a host of ... components/elements/factors that ..., ... be the most ... of all.
+
+------
+
+~The trouble is that basic tariffs are still too low.~ The higher cost of diverted water is borne not by consumers but local governments. So the project has no direct effect on usage. ~**On the top of that,**~ urban water infrastructure has long been neglected. Sewers back up, pipes leak. Instead of trying to fix them and rein in demand, China is focusing on boosting supplies.
+
+~Several factors could explain~ how difficult it is for bike-sharing service providers to **gross/rake in money**. ~The first reason is/involves/refers to~ the great/unbelievable initial investment that **lays heavy financial burden on** bike-sharing **startups**. ~Another factor lies in~ the undesirable impacts on the appearance and operation of cities. ~On the top of [all] that, this economically implausible business model is a third cause~, for few companies of the sort has managed to turn their ideal into reality, or **specifically/ to be specific**, money.
+
+**key points:**
+
+1. Several factors could explain ...(some problems or phenomena). The first reason is ... . Another factor lies in ... . On the top of (all) that, ... is a third cause. 层层递进，条理清晰，可以应用于分析一个现象或问题产生的原因
+2. gross money/ rake in money 赚钱
+3. lay heavy burden on sb/sth 使承受重担
+4. startup 初创公司
+5. on the top of that 最为重要的是
+6. specifically/to be specific 具体地说
+
+------
+
+⭐️In South Korea smartphones cases **come with** rings mounted on the back, to prevent clumsy owners from dropping them.
+
+仿写：
+In current/contemporary/present society the movements for achieving/aspiring gender equality/equity **come in** multiple forms, from radical to reasonable.
+
+A **phenomenally successful movie** comes with three key factors/elements/ingredients-the story fantastic/charming/inviting enough to be told, the cooperative team required/demanded for **fleshing out the skeleton of the story,** the actors or actresses who grasp the core idea readily to perform it vividly. 
+
+⭐️In many of Seoul’s most instagrammable coffee shops, <u>couples on dates spend vastly more time looking at their screens than at each other.</u>
+
+In this digital age, **it seems an overwhelming trend** that <u>friends at table tend to/are inclined to/are more often than not to spend vastly more time looking at their screens than at each other.</u> However, <u>the consequences/effects/implications of such smartphone dependence have placed/exerted harmful/undesirable impacts (on people) far beyond erosion of **interpersonal relationships.** [However, the evil/undesirable effects/consequences/implications/ramifications of such smartphone dependence have gone/reached far beyond the erosion of interpersonal relationships.]</u> The next generation, or say, the youngsters, come with a world of **screen-based device**s. Thus, it requires/demands/takes the most self-disciplined of them to resist the temptation to **glue their eyes to** the smartphone/handset screens. 
+
+**key points:**
+
+1. come+介词 可以表达某事物具有的特性，用法非常灵活
+2. mount A on B 把A安装到B上
+3. gender equality/equity 性别平等
+4. phenomenally successful movie 非常成功（卖座）的电影
+5. inviting/charming 吸引人的
+6. cooperative team 协作团队
+7. flesh out 充实，使具体化 flesh out the skeleton of the story
+8. grasp idea readily 理解快的
+9. Instagrammable 值得发Instagram的，即网红的
+10. it seems an overwhelming trend that ... ...似乎是一个不可阻挡的趋势
+11. tend to/be inclined to/be more often than not 往往
+12. beyond 可表达不仅仅只有这个影响 例如 the effects/implications/ramifications/consequences go/reach far beyond ...
+13. interpersonal relationship 人际关系
+14. screen-based device 基于屏幕的设备
+15. resist the temptation to 很难不去做某事
+16. glue one’s eye to screen 眼睛粘在屏幕上，意为沉迷于手机
+
+---
+

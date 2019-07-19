@@ -139,7 +139,7 @@ Of the great deal/host of elements/factors that underlie/compose/constitute an i
 
 ------
 
-~The trouble is that basic tariffs are still too low.~ The higher cost of diverted water is borne not by consumers but local governments. So the project has no direct effect on usage. ~**On the top of that,**~ urban water infrastructure has long been neglected. Sewers back up, pipes leak. Instead of trying to fix them and rein in demand, China is focusing on boosting supplies.
+<u>The trouble is that basic tariffs are still too low.</u> The higher cost of diverted water is borne not by consumers but local governments. So the project has no direct effect on usage. <u>**On the top of that,**</u> urban water infrastructure has long been neglected. Sewers back up, pipes leak. Instead of trying to fix them and rein in demand, China is focusing on boosting supplies.
 
 <u>Several factors could explain</u> how difficult it is for bike-sharing service providers to **gross/rake in money**. <u>The first reason is/involves/refers to</u> the great/unbelievable initial investment that **lays heavy financial burden on** bike-sharing **startups**. **Another factor lies in** the undesirable impacts on the appearance and operation of cities. <u>On the top of [all] that, this economically implausible business model is a third cause</u>, for few companies of the sort has managed to turn their ideal into reality, or **specifically/ to be specific**, money.
 

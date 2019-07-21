@@ -186,3 +186,35 @@ In this digital age, **it seems an overwhelming trend** that <u>friends at table
 
 ---
 
+It is Ant Financial’s innovation, drive and dynamism that makes the company a pioneer of mobile payment.
+
+**Version1:**Women in the developed regions **enjoy/experience a greater latitude in** aspiring gender equality/equity than their counterparts in the underdeveloped/underprivileged/disadvantaged areas.
+**Version2:**Women in the developed regions **come with wider possible latitude in** aspiring equal opportunities in education, finance and politics than their counterparts in the underdeveloped/underprivileged/disadvantaged areas.
+
+**key points:**
+
+1. Mobile payments 移动支付
+2. drive 干劲，动力
+3. dynamism 活力
+4. innovation 创新能力
+5. enjoy/experience a greater/wider latitude (in ... ) 享有更大的自由....
+
+------
+
+That Japan inflation is running half a percentage point below the rate predicted at the end of last year is **no flash in the pan**.
+
+*Given that* governments have <u>conducted a series of controlling measures</u> in excessive smartphone dependence, such as **a ban on** watching the screen while driving, phenomena of the sort have a great possibility to be/are very likely to be nothing more than a flash in the pan/a passing fancy. Plus, a breakthrough in steering people away from the screen and to desirable way of life is supposed to be/is expected to an urgent demand.
+
+**key points:**
+
+1. a flash in the pan/a passing fancy 昙花一现
+2. nothing/no more 仅仅，只不过是
+3. given that ... 鉴于，基于... 
+4. conduct measures 实行措施...
+5. a ban on ... 对...的禁令 lift ban on ... from ... 撤销禁令
+6. have a great possibility/ be very likely to be 很有可能
+7. Plus 此外
+8. a breakthrough in ... is a urgent demand 
+9. steer sb away from ... 引导...远离...
+10. steer sb to ... 引导...去...
+11. be supposed to/be expected to

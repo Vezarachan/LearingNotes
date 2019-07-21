@@ -1,0 +1,920 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\hypertarget{header-n0}{%
+\section{PKU历年真题}\label{header-n0}}
+
+\hypertarget{header-n2}{%
+\subsection{1998}\label{header-n2}}
+
+\hypertarget{header-n3}{%
+\subsubsection{名词解释（4pt × 5）}\label{header-n3}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  空间分析函数
+\item
+  GPS
+\item
+  四叉树编码
+\item
+  信息系统
+\item
+  OpenGIS
+\end{enumerate}
+
+\hypertarget{header-n15}{%
+\subsubsection{简答题 （10pt × 4）}\label{header-n15}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  空间指标和空间关系量测的主要内容
+\item
+  矢量多边形面积的快速算法（要求附框图）
+\item
+  DEM、DTM的概念及其获取方法
+\item
+  由栅格数据向矢量数据转换的方法
+\end{enumerate}
+
+\hypertarget{header-n25}{%
+\subsubsection{综合分析题（20pt × 2）}\label{header-n25}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统的意义、特点与发展趋势
+\item
+  地理信息系统的信息源与输入方法
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n32}{%
+\subsection{1999}\label{header-n32}}
+
+\hypertarget{header-n33}{%
+\subsubsection{名词解释（4pt × 10）}\label{header-n33}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  数字地球
+\item
+  矢量结构
+\item
+  栅格数据
+\item
+  拓扑关系
+\item
+  缓冲区分析（buffer）
+\item
+  多边形覆盖分析（overlay）
+\item
+  数字高程模型（DEM）
+\item
+  三角法（TIN）
+\item
+  元数据（Metadata）
+\item
+  高斯-克吕格投影
+\end{enumerate}
+
+\hypertarget{header-n55}{%
+\subsubsection{简答题（8pt × 5）}\label{header-n55}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  简述地理信息系统中有哪些空间分析方法
+\item
+  简述地图投影的基本原理
+\item
+  简述栅格数据的数据组织方法
+\item
+  简述地理信息系统的主要软硬件组成
+\item
+  简述地理信息系统工程的三维结构体系
+\end{enumerate}
+
+\hypertarget{header-n67}{%
+\subsubsection{论述题（20pt）}\label{header-n67}}
+
+试论GIS项目中文档管理的意义及文档的类型（主要有哪些文档）？
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n70}{%
+\subsection{2000}\label{header-n70}}
+
+\hypertarget{header-n71}{%
+\subsubsection{名词解释（5pt × 8）}\label{header-n71}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  国家信息基础设施
+\item
+  空间对象（实体）
+\item
+  拓扑结构
+\item
+  元数据（Metadata）
+\item
+  层次数据库模型
+\item
+  GIS互操作
+\item
+  四叉树编码
+\item
+  空间索引
+\end{enumerate}
+
+\hypertarget{header-n89}{%
+\subsubsection{简答题（8pt × 5）}\label{header-n89}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  简述栅格数据结构的三种数据组织方法
+\item
+  简述地理信息系统数据采集的方法及特点
+\item
+  简述高斯-克吕格投影的基本特点
+\item
+  简述GIS项目管理中文档的种类及重要意义
+\item
+  间数据地理信息系统空间数据的误差来源
+\end{enumerate}
+
+\hypertarget{header-n101}{%
+\subsubsection{论述题（20pt）}\label{header-n101}}
+
+试论网络GIS的技术特点以及尚需解决的问题
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n104}{%
+\subsection{2001}\label{header-n104}}
+
+\hypertarget{header-n105}{%
+\subsubsection{名词解释（5 in 6, 4pt × 5）}\label{header-n105}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  空间对象
+\item
+  拓扑空间关系
+\item
+  地理空间中的栅格表达方法
+\item
+  四叉树编码
+\item
+  空间数据质量
+\item
+  缓冲区分析
+\end{enumerate}
+
+\hypertarget{header-n119}{%
+\subsubsection{简答题（10pt × 4）}\label{header-n119}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统组成
+\item
+  矢量、栅格、DEM数据结构的优缺点分析
+\item
+  属性数据库的数据模型
+\item
+  空间数据的内插方法
+\end{enumerate}
+
+\hypertarget{header-n129}{%
+\subsubsection{综合分析题（20pt × 2）}\label{header-n129}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  论述地理信息系统的数据来源以及数据采集的主要方法
+\item
+  论述DEM的主要应用
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n136}{%
+\subsection{2002}\label{header-n136}}
+
+\hypertarget{header-n137}{%
+\subsubsection{名词解释（4pt × 5）}\label{header-n137}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  扫描矢量化
+\item
+  TIN模型
+\item
+  元胞自动机
+\item
+  地理信息
+\item
+  WebGIS
+\end{enumerate}
+
+\hypertarget{header-n149}{%
+\subsubsection{简答题（8pt × 5）}\label{header-n149}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统软件的体系结构与功能作用？
+\item
+  地理信息系统的主要信息源有哪些？
+\item
+  何谓BUFFER？并对以下图形单元（邻域半径长度如图所示）画出其BUFFER区示意图。
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563696406758.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  请画出以下两个多边形图层的OVERLAY结果图层的示意图。
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563696564214.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  何谓DEM？计算以下高程栅格数据（高程单位为米，栅格单元为正方形，其边长为10米）中的最大高程差及阴影部分的平均高程，同时在下图上示意性画出主要河流谷底边界线位置并计算河流纵比降系数。
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563696724445.png}
+\caption{}
+\end{figure}
+
+\hypertarget{header-n166}{%
+\subsubsection{综合分析题（20pt × 2）}\label{header-n166}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  综述GIS空间数学模型的概念、类型与前沿问题
+\item
+  试结合某实际领域（如环境、规划、交通、灾害等）进行GIS应用系统总体设计，并叙述项目实施主要步骤与要点（按照软件工程原理方法与应用项目组织管理规范描述主要结构、内容与流程）
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n173}{%
+\subsection{2003}\label{header-n173}}
+
+\hypertarget{header-n174}{%
+\subsubsection{名词解释（5pt × 6）}\label{header-n174}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  空间分析函数
+\item
+  矢量数据结构
+\item
+  四叉树编码
+\item
+  OpenGIS
+\item
+  虚拟现实
+\item
+  数据挖掘
+\end{enumerate}
+
+\hypertarget{header-n188}{%
+\subsubsection{简答题或分析题（20pt × 6）}\label{header-n188}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  空间指标和空间关系量测的主要内容？
+\item
+  DEM、DTM的概念及其获取方法？
+\item
+  空间数据误差来源与数据质量控制方法？
+\item
+  扫描矢量化的工作流程与关键算法？
+\item
+  GIS软件工程与项目管理的主要内容？
+\item
+  下图中：点A、B、C分别为省级市、地级市与县级市，线101、201、301分别为国道、省道与普通道路。试根据以下条件进行经济开发区选址分析。
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563697337449.png}
+\caption{}
+\end{figure}
+
+假设：开发区选址主要考虑离城市与道路的影响作用，且
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  省级市对开发区的区位作用：15公里内很强，15-20公里内较强
+\item
+  地级市对开发区的区位作用：5公里内很强，10公里内较强
+\item
+  县级市对开发区的区位作用：5公里内较强
+\item
+  国道对开发区的作用：5公里内很强，5-10公里内较强
+\item
+  省道对开发区的区位作用：2.5公里内很强，2.5-5公里内较强
+\item
+  普通道路对开发区的区位作用：2.5公里内较强
+\end{enumerate}
+
+要求：表述分析方法、流程并画出评价结果示意图
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n219}{%
+\subsection{2004}\label{header-n219}}
+
+\hypertarget{header-n220}{%
+\subsubsection{名词解释（6pt × 5）}\label{header-n220}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  WebGIS
+\item
+  信息系统
+\item
+  TIN
+\item
+  属性数据
+\item
+  元数据（Metadata）
+\end{enumerate}
+
+\hypertarget{header-n232}{%
+\subsubsection{简答题（15pt × 4）}\label{header-n232}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统的主要信息源与输入方式
+\item
+  对下图进行矢量数据拓扑结构编码（要写出结点、中间点、弧段，多边形的结构表，弧段的方向自行规定）
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563697882906.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  试述栅格数据结构概念及主要编码方式，按以下数据举例说明
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563697952223.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  比较矢量数据结构与栅格数据结构的特点并叙述其转换算法
+\end{enumerate}
+
+\hypertarget{header-n246}{%
+\subsubsection{综合分析题}\label{header-n246}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  以城市突发事件监控为例，给出数字城市应急响应系统设计
+\item
+  下图（1）为某区域高程栅格数据（高程单位为米，栅格单元为正方形，其分辨率为100米），图（2）为通过遥感处理获得的同一区域城镇用地现状栅格数据（代码1为现有城镇用地，代码0为其他）。
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563698161226.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563698182488.png}
+\caption{}
+\end{figure}
+
+请根据以下条件进行用地规划并计算各类用地面积，预测洪水损失：（1）该区域常年地表水位为4.5m，五年一遇的洪水位为5.5m。（2）在保留现有城镇用地的基础上，优先安排扩展新的城镇用地，城镇用地要求坡度\textless{}5度，离现有城镇距离不大于100m，离常年水体距离不大于300m，同时不得有洪水威胁。（3）农田的规划要求是：坡度\textless{}5度，离常年水体距离不大于400m，（4）其余用地（除常年水体外）规划为林地。（5）农田的平均年产值为100万/平方公里，城镇区洪水淹没损失按1亿元/平方公里计。
+
+请叙述GIS空间分析过程，画出流程与结果图。
+
+（tan5=0.087）
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n258}{%
+\subsection{2005}\label{header-n258}}
+
+\hypertarget{header-n259}{%
+\subsubsection{名词解释（7 in 8, 6 pt × 7）}\label{header-n259}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  不规则三角网（TIN）
+\item
+  WebGIS
+\item
+  扫描矢量化
+\item
+  空间数据挖掘
+\item
+  场模型
+\item
+  地理编码（Geocoding）
+\item
+  基于位置的服务（LBS）
+\item
+  元胞自动机（Cellular Automata）
+\end{enumerate}
+
+\hypertarget{header-n277}{%
+\subsubsection{简答题（14pt × 6）}\label{header-n277}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  简述空间关系的类型及其特点。
+\item
+  简述3D-GIS的特点，以及其与普通2D-GIS的区别。
+\item
+  将遥感数据集成于GIS有哪些作用？
+\item
+  空间数据误差来源与数据质量控制方法？
+\item
+  简单说明扩展结构化查询语言（SQL）使其支持地理空间操作，对于地理信息系统软件开发的意义以及扩展关键技术
+\item
+  举例说明GIS中的叠加复合分析及其应用
+\end{enumerate}
+
+\hypertarget{header-n291}{%
+\subsubsection{综合分析题（24pt）}\label{header-n291}}
+
+如果要分析一个城市居民就医的方便程度，你准备采用哪些空间数据，并描述在一个GIS支持下的分析流程。
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n294}{%
+\subsection{2006}\label{header-n294}}
+
+\hypertarget{header-n295}{%
+\subsubsection{名词解释（5pt × 4）}\label{header-n295}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  数据
+\item
+  投影
+\item
+  WebGIS
+\item
+  元数据
+\end{enumerate}
+
+\hypertarget{header-n305}{%
+\subsubsection{简答题（50pt）}\label{header-n305}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  生成DEM的插值算法分类及其特点（15pt）
+\item
+  GIS的误差来源（10pt）
+\item
+  地理信息的特点（10pt）
+\item
+  地理信息系统的发展及趋势（15pt）
+\end{enumerate}
+
+\hypertarget{header-n315}{%
+\subsubsection{综合分析题（80pt）}\label{header-n315}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  阐述缓冲区分析的定义、主要算法，并举例说明其应用（40pt）
+\item
+  详细阐述二维地理信息系统的数据模型（40pt）
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n322}{%
+\subsection{2007}\label{header-n322}}
+
+\hypertarget{header-n323}{%
+\subsubsection{名词解释（5pt × 5）}\label{header-n323}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统
+\item
+  拓扑关联
+\item
+  数据仓库
+\item
+  元数据
+\item
+  常规四叉树结构
+\end{enumerate}
+
+\hypertarget{header-n335}{%
+\subsubsection{简答题（55pt）}\label{header-n335}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  地理信息系统软件工程中的需求分析（15pt）
+\item
+  空间插值的数据源（15pt）
+\item
+  地理信息的特点（10pt）
+\item
+  包含分析的算法及应用（15pt）
+\end{enumerate}
+
+\hypertarget{header-n345}{%
+\subsubsection{综合分析题（70pt）}\label{header-n345}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  二维地理信息系统矢量、栅格、TIN数据模型及其优缺点分析（20pt）
+\item
+  图1中划线代表三条河流，请阐述生成缓冲区的算法（辅助绘图说明）（25pt）
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{G:/X-Lab/LearningFiles/GitNote/LearingNotes/GIS/历年真题.assets/1563699487768.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  结合本专业方向或你将来攻读硕士学位所感兴趣的研究方向谈谈你对地理信息系统应用和发展趋势的认识。
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n356}{%
+\subsection{2010}\label{header-n356}}
+
+\hypertarget{header-n357}{%
+\subsubsection{名词解释（10pt × 5）}\label{header-n357}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  元数据、数据和信息
+\item
+  RCL（游程长度编码）和块码
+\item
+  GPS、GNSS、LBS
+\item
+  WebGIS和Grid GIS
+\item
+  CAD、GIS
+\end{enumerate}
+
+\hypertarget{header-n369}{%
+\subsubsection{不定项选择题（2pt × 5）}\label{header-n369}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  以下属于空间表达方法的是（ ）。
+
+  A. 面向对象的表达方式
+
+  B. 三次样条函数方法
+
+  C. 趋势面方法
+\item
+  📄
+\item
+  📄
+\item
+  📄
+\item
+  GIS组成中，除了用户人员还包括（ ）。
+
+  A. 地理数据
+
+  B. 软件
+
+  C. 硬件
+\end{enumerate}
+
+\hypertarget{header-n387}{%
+\subsubsection{综合分析题（30pt × 3）}\label{header-n387}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  比较分析栅格数据模型和矢量数据模型的优缺点，并说明简单对象的矢量模型数据结构和各字段的含义。
+\item
+  详细阐述DEM中的坡度和坡向分析过程，并绘图说明。
+\item
+  在物联网和智慧地球的机遇和挑战下，说明你对地理信息系统未来应用和发展趋势的认识。
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n396}{%
+\subsection{2011}\label{header-n396}}
+
+\hypertarget{header-n397}{%
+\subsubsection{名词解释（6pt × 5）}\label{header-n397}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  数据与信息
+\item
+  拓扑关系
+\item
+  📄
+\item
+  物联网
+\item
+  矢量数据结构
+\end{enumerate}
+
+\hypertarget{header-n409}{%
+\subsubsection{简答题（15pt × 4）}\label{header-n409}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  📄
+\item
+  简述空间索引的类型与作用
+\item
+  简述地理信息系统的分类与发展趋势
+\item
+  简述栅格数据向矢量数据转化的算法
+\end{enumerate}
+
+\hypertarget{header-n419}{%
+\subsubsection{综合分析题（30pt × 2）}\label{header-n419}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  绘图阐述DEM的算法与应用
+\item
+  从遥感和GIS结合的角度，说明舟曲泥石流灾害损失快速评估方案和分析流程
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n426}{%
+\subsection{2012}\label{header-n426}}
+
+\hypertarget{header-n427}{%
+\subsubsection{名词解释（5pt × 6）}\label{header-n427}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  九交模型
+\item
+  拓扑关系
+\item
+  常规四叉树
+\item
+  缓冲区分析
+\item
+  智慧城市
+\item
+  元数据
+\end{enumerate}
+
+\hypertarget{header-n441}{%
+\subsubsection{简答题（15pt × 4）}\label{header-n441}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  GIS的数据源及输入方法有哪些？
+\item
+  什么是MBR？怎样计算？它的作用是什么？
+\item
+  简述栅格数据向矢量数据转换的过程。
+\item
+  应用GIS项目的工程建设过程和主要内容有哪些？
+\end{enumerate}
+
+\hypertarget{header-n451}{%
+\subsubsection{综合分析题（30pt × 2）}\label{header-n451}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  论述GIS的发展历程及其未来发展的趋势。
+\item
+  根据已有资料，进行关于植物适宜生长区域的分析。
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n458}{%
+\subsection{2013}\label{header-n458}}
+
+\hypertarget{header-n459}{%
+\subsubsection{名词解释（5pt × 6）}\label{header-n459}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  八叉树模型
+\item
+  空间数据库
+\item
+  空间自相关
+\item
+  Delaunay三角剖分
+\item
+  R-树
+\item
+  元数据
+\end{enumerate}
+
+\hypertarget{header-n473}{%
+\subsubsection{简答题（15pt × 4）}\label{header-n473}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  简述地理信息系统数据质量的内容
+\item
+  简述地理信息系统空间关系的基本类型
+\item
+  给出一个森林火灾指数模型的公式，含有植被属性、高程、坡度、坡向、到居民地或者道路的距离等参数，现有纸质的等高线图和数字化的遥感图像，最后要得出森林火灾指数图。要求写出森林火灾指数图的数据处理和计算过程。
+\item
+  绘制地理信息系统软件平台体系结构并简述各部分主要内容。
+\end{enumerate}
+
+\hypertarget{header-n483}{%
+\subsubsection{综合分析题（30pt × 2）}\label{header-n483}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  目前北京的出租车上都安装了GPS系统，假设可以连续获得三维坐标，那么我们可以用这些数据进行哪些空间分析和应用。
+\item
+  选择一个行业，以``智慧××''（如智慧国土、智慧矿山）作为题目，谈谈你的理解。
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{header-n490}{%
+\subsection{2017}\label{header-n490}}
+
+\hypertarget{header-n491}{%
+\subsubsection{名词解释}\label{header-n491}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  链码
+\item
+  线性参考系统
+\item
+  TIN
+\item
+  3DGIS
+\item
+  空间数据库
+\end{enumerate}
+
+\hypertarget{header-n503}{%
+\subsubsection{简答题}\label{header-n503}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  📄
+\item
+  矢量线压缩算法
+\item
+  克里金插值原理及方法
+\item
+  写出三个有关现象对周围邻域影响的空间分析
+\end{enumerate}
+
+\hypertarget{header-n513}{%
+\subsubsection{综合分析题}\label{header-n513}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  给出地理围栏的说明，然后给出设计地理围栏的数据组织方式、涉及到的算法以及软件结构
+\item
+  对地理大数据的看法以及举例
+\end{enumerate}
+
+\end{document}

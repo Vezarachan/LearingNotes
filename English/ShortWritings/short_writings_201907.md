@@ -218,3 +218,54 @@ That Japan inflation is running half a percentage point below the rate predicted
 9. steer sb away from ... 引导...远离...
 10. steer sb to ... 引导...去...
 11. be supposed to/be expected to
+12. of late 最近的，近期的 recently
+
+---
+
+The movement **organized by** *disgruntled* **tech workers**/**software engineers** who **are fed up with** <u>grindingly long office hours</u> without **extra/overtime pay** **offers a window (for average people) into** the real situation of current/contemporary **tech sector**. Meanwhile, GitHub, a platform owned by Microsoft that ~allows developers to~ help **each other/one another** build software freely, has been **at the heart/center/hub/epicenter of** the *hubbub*. For those who have been experiencing the “996” *schedule/regime*, this *uncensored* spot **at their fingertips** has witnessed/seen their **shared grievances/complaints** for *toiling* before the screens in the past few weeks. Thus/as a result/consequently, it is urgently demanded for tech giants that a more reasonable/humane balance between office and home are supposed to/expected to be struck.
+
+**key points:**
+
+1. be organized by 由...组织
+2. disgruntled 不满的
+3. tech worker 技术工人（相对于一般工人而言，此处指程序员，俗称码农）
+4. software engineers 软件工程师
+5. be fed up with 厌倦，厌烦
+6. grindingly long office hours 漫长乏味的工作时间
+7. extra pay 加班费 overtime pay
+8. offer a window for sb into ... 为某人提供了一个了解...的窗口
+9. average people 普通人
+10. tech sector 科技行业
+11. allow sb to do sth 允许某人做某事
+12. each other/one another 互相，彼此
+13. at the heart/hub/center/epicenter of ... 在...的中心
+14. hubbub 骚乱，对应上文movement
+15. those who ...
+16. schedule/regime 此处意为工作时间制度
+17. uncensored 来源于censor，意为监管、审查，此处指没有受到监管的
+18. at one’s fingertips 触手可及，此处同时表明了其程序员的身份
+19. somewhere/a period of time has seen/witnessed sth 表示某地/某时间（段）发生了某事
+20. shared grievances/complaints 共同的抱怨/不满 grievance来源于grieve，表示使悲伤
+21. toil 辛苦工作（特别是长时间的）
+22. it is urgently demanded/needed that ... ....是迫切要求的
+23. strike a balance 达成平衡
+24. a balance between office and home 工作与家庭（生活）的平衡
+25. be expected to/supposed to
+
+------
+
+Technology industry has been **emerging as** the **crowning achievement/glory** of China, it <u>supports hundreds of thousands of jobs</u> domestically/internally and **competes with** its counterparts globally/externally.
+
+It is global cultures’ diversity and distinction **originated from** varying climates and terrains of different states that makes the idea of cultural hotpot **rooted in** the dream of **reconciling one culture with another** so charming/inviting/fascinating.
+
+**key points:**
+
+1. emerge as 成为
+2. the crowning glory/achievement 至高的荣誉/成就
+3. support/create ... jobs 创造了...的工作
+4. compete with
+5. diversity and distinction 区别与分化
+6. be originated from 来源于（originate from亦可）
+7. varying climates and tarrains 变化的气候与地形
+8. be rooted in 来源于，深植于（root in 亦可）
+9. reconcile sth with sth 使...和...协调

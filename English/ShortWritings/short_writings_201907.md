@@ -123,7 +123,7 @@ It takes the most cool-headed and good-tempered of drivers to **resist the tempt
 
 Those who are capable/able to ~afford challenges~ **imposed by** competitions **of all kinds/quarters/sources** in life and **resist the temptation to** give up constitute/compose a small proportion/the minority of average college students **on campus**.
 
-Of the many values that hold civilization together-honesty, kindness, and so on-accountability may be the most important of all. 
+Of the mrany values that hold civilization together-honesty, kindness, and so on-accountability may be the most important of all. 
 
 Of the great deal/host of elements/factors that underlie/compose/constitute an integrated man, sound mental health, the source of good manners, has a great possibility to be/is very likely to be/has every prospect to be the most important of all.
 
@@ -269,3 +269,24 @@ It is global cultures’ diversity and distinction **originated from** varying c
 7. varying climates and tarrains 变化的气候与地形
 8. be rooted in 来源于，深植于（root in 亦可）
 9. reconcile sth with sth 使...和...协调
+
+---
+
+Aspiration for gender equity/equality has **evolve from** merely a regional movement/uprising into a national one.
+
+
+
+:star2:Silicon Valley’s primacy as the **hub** of technology is **on the wane**. **It is remarkable/significant** that there is a vibrant tech scene in a host of/a supply of regions around/all over the world other than the well-known tech center. Phoenix and Pittsburgh have become hubs for autonomous vehicles; New York for media startups; London for fintech; Shenzhen for hardware. None of these places can match/rival/challenge the Valley on its own; between them, they point to a world in which innovation  is more distributed. (原文改写版)
+
+
+
+**key points:**
+
+1. evolve from ... into .. 从...逐步进化/形成为
+2. primacy 主导地位
+3. hub/center/epicenter/heart （事件、活动的）中心
+4. on the wane 衰落，衰败 decline, fade
+5. it is remarkable/significant that ... 值得注意的是
+6. vibrant tech scene 富有活力的科技景象
+7. a host of/a supply of 许多
+8. 此句子难点在于其省略句，完整句形是some city has become the hub for some kind of technology.

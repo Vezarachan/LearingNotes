@@ -290,3 +290,43 @@ Aspiration for gender equity/equality has **evolve from** merely a regional move
 6. vibrant tech scene 富有活力的科技景象
 7. a host of/a supply of 许多
 8. 此句子难点在于其省略句，完整句形是some city has become the hub for some kind of technology.
+
+---
+
+**As with** other issues in the contemporary/current community/society, **overuse** of **screen-based devices** ~threatens to/may very well/is very likely~ to ~place/exert undesirable/harmful impacts/effects on~ youngsters and the next generations. The screens **as yet/so far** have **given rise to/led to/conjured up** a host of evil effects. First comes the erosion of interpersonal relationships. People/Friends at table, for example/instance, **tend to/are inclined to/are more often than** not ~spend vastly/significantly more time looking at their handsets than at each other/one another~. A second woe involves/revolves around/refers to those who have been gluing their eyes to the smartphone screens. 
+But ~while it is easy to **blame these technological problems on[attribute these technological problems to** cellphones, a closer look reveals a legacy/outcome of **poor self-discipline**, **complicated information** and **failed/false guidance**.~ Consequently, it requires/demands the most strong-willed of the young to **resist the temptation to** focus excessively on mobile phones. 
+Aiming to **tackle/deal with/dispose with** the plight(**smartphone dependence or nomophobia**), people have wondered for a long time what is to be done to alleviate the situation. Smartphone dependence or nomophobia is not hard to define, it means that a irregular mental state that one person feels extremely tensive without the phone in his pocket or sight.
+*Given that* governments have ~conducted/enforced a series of controlling measures~ in excessive smartphone dependence, such as **a ban of late on** watching the screen while driving, phenomena of the sort **have a great possibility to be/are very likely to** be ~nothing more than~ **a flash in the pan/a passing fancy**. Plus, a breakthrough in steering people away from the screen and to desirable/advisable way of life is supposed to be/is expected to be an urgent/foremost demand. 
+
+**key points:**
+
+1. as with 正如
+2. overuse 过度使用
+3. threaten to/may very well/is very likely to/have a great possibility to 很可能
+4. place/exert undesirable/harmful/evil impacts/effects on 施加不良影响
+5. as yet/so far 至今为止
+6. give rise to/lead to/result in/conjure up 导致
+7. First comes ... A second woe involves/revolves around/refers to ... On the top of all that, ... serve as a third horror.
+8. tend to/are inclined to/are more often than
+9. spend time doing sth
+10. each other/one another 互相
+11. handset/smartphone/cellphone/mobile phone/mobile device/screen-based device 均指代手机
+12. woe/malaise/plight/problem/issue/horror 问题 make the woe worse 雪上加霜
+13. while it is easy to ..., a closer look reveals ... 表达转折
+14. blame A on B 将...归因于 attribute A to B
+15. poor self-discipline 较差的自律能力
+16. complicated information 错综复杂的信息
+17. failed/false guidance 错误的引导
+18. it requires/demands that ... 这要求...
+19. resist the temptation to 很难不...
+20. tackle/deal with/dispose with 解决
+21. smartphone dependence/nomophobia 手机依赖/无手机恐惧症
+22. people have wondered for a long time what/how ... 
+23. something is not har to define, it means that ...
+24. a ban on ... 对...的禁令
+25. in one‘s sight 在某人的视线内
+26. conduct/enforce a + adj. + measure 实行...的
+27. no/nothing more than 仅仅
+28. a flash in the pan/a passing fancy 昙花一现
+29. a breakthrough in ... is a urgent/foremost demand
+30. be supposed to/be expected to 应该
